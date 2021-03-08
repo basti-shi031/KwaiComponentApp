@@ -1,2 +1,8 @@
+include ':common-lib:video_player'
+include ':common-lib:activity'
+include ':common-lib'
+include ':base:net'
+include ':base:logger'
+include ':base'
 include ':app'
 rootProject.name = "KwaiComponentApp"

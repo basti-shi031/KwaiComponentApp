@@ -1,3 +1,8 @@
+include ':home:follow'
+include ':me:account'
+include ':common-lib:login'
+include ':me'
+include ':home'
 include ':common-lib:video_player'
 include ':common-lib:activity'
 include ':common-lib'

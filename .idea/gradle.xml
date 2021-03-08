@@ -18,7 +18,12 @@
             <option value="$PROJECT_DIR$/base/net" />
             <option value="$PROJECT_DIR$/common-lib" />
             <option value="$PROJECT_DIR$/common-lib/activity" />
+            <option value="$PROJECT_DIR$/common-lib/login" />
             <option value="$PROJECT_DIR$/common-lib/video_player" />
+            <option value="$PROJECT_DIR$/home" />
+            <option value="$PROJECT_DIR$/home/follow" />
+            <option value="$PROJECT_DIR$/me" />
+            <option value="$PROJECT_DIR$/me/account" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
